@@ -18,14 +18,14 @@ export default function IndexPage() {
                 </p>
                 <Dialog />
                 <p className="mt-10 font-mono text-xs text-neutral-500">
-                    made with ❤️ by{" "}
+                    made by{" "}
                     <Link
                         className="underline"
                         target="_blank"
                         rel="noopener noreferrer"
                         href="https://github.com/metaloozee/"
                     >
-                        metaloozee
+                        Nicholas
                     </Link>
                 </p>
             </div>
